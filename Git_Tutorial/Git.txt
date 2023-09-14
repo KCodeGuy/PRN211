@@ -1,0 +1,56 @@
+1. Set config name and email
+	+ git config --global user.name 'KhoaTD'
+	+ git config --global user.email 'khoatdce160367@gmail.com'
+
+2. Create git local (Repository - .git)
+	+ git init
+
+3. See all files of the project (the status of files is in working space/ staging area)
+	+ git status 
+
+4. Move files from Working space -> Stating area
+  
+   4.1. move file from Working space -> Stating area
+	+ git add "fileName" (Ex: git add index.html)
+	+ git add "fileName1" "fileName2" (Ex: git add index1.css index2.css)
+      + git add . (add all files in working space)
+   
+   4.2. move a file from Stating area -> Working space
+	+ git restore --staged "fileName"
+
+
+5. Move the file from the Staging area -> Committed
+	+ git commit -m "comment" (Ex: git commit -m "khoa update file A") 
+
+6. See all commit is committed (q to quit)
+	+ git log
+
+
+================================================
+7. Connect git local with git repository server (Github)
+   A. Push into main (master)	
+	+ regit remote add origin "linkReponsitory"
+	+ git branch -M main
+	+ git push -u origin main
+
+   B. Push into a special branch.
+	+ git branch (see current branch)
+	+ git checkout -b "BranchName"
+
+8. Move to an other branch
+	+ git checkout "BranchName"
+
+9. Summary code from a brand to main(master) - add all newest committed to master.
+	+ git merge "BranchName" 
+
+10. Down code in main (Github)
+	+ git pull
+
+11. See the current version of git: 
+	+ git --version 
+	+ git -v
+
+=======================================
+
+
+

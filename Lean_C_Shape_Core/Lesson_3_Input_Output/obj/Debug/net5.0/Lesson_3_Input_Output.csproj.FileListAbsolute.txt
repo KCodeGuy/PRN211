@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\bin\Debug\net5.0\Lesson_3_Input_Output.exe
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\bin\Debug\net5.0\Lesson_3_Input_Output.deps.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\bin\Debug\net5.0\Lesson_3_Input_Output.runtimeconfig.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\bin\Debug\net5.0\Lesson_3_Input_Output.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\bin\Debug\net5.0\Lesson_3_Input_Output.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\bin\Debug\net5.0\Lesson_3_Input_Output.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\refint\Lesson_3_Input_Output.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\Lesson_3_Input_Output.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_3_Input_Output\obj\Debug\net5.0\ref\Lesson_3_Input_Output.dll

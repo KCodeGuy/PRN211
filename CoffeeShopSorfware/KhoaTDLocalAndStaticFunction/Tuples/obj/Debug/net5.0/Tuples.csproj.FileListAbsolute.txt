@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\bin\Debug\net5.0\Tuples.exe
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\bin\Debug\net5.0\Tuples.deps.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\bin\Debug\net5.0\Tuples.runtimeconfig.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\bin\Debug\net5.0\Tuples.runtimeconfig.dev.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\bin\Debug\net5.0\Tuples.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\bin\Debug\net5.0\Tuples.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.AssemblyInfo.cs
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\refint\Tuples.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\Tuples.genruntimeconfig.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Tuples\obj\Debug\net5.0\ref\Tuples.dll

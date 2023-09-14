@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\bin\Debug\net5.0\Discards.exe
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\bin\Debug\net5.0\Discards.deps.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\bin\Debug\net5.0\Discards.runtimeconfig.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\bin\Debug\net5.0\Discards.runtimeconfig.dev.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\bin\Debug\net5.0\Discards.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\bin\Debug\net5.0\Discards.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.AssemblyInfo.cs
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\refint\Discards.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\Discards.genruntimeconfig.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\CoffeeShopSorfware\KhoaTDLocalAndStaticFunction\Discards\obj\Debug\net5.0\ref\Discards.dll

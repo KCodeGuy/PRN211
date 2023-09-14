@@ -1,0 +1,27 @@
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\Three_Layer_ Model.exe
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\Three_Layer_ Model.deps.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\Three_Layer_ Model.runtimeconfig.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\Three_Layer_ Model.runtimeconfig.dev.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\Three_Layer_ Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\Three_Layer_ Model.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer__Model.Form1.resources
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.csproj.GenerateResource.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.AssemblyInfo.cs
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\refint\Three_Layer_ Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.genruntimeconfig.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\ref\Three_Layer_ Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer__Model.Properties.Resources.resources
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer__Model.GUI.Home.resources
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer_ Model\obj\Debug\net5.0-windows\Three_Layer_ Model.csproj.CopyComplete

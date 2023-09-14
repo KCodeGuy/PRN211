@@ -1,0 +1,19 @@
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\bin\Debug\net5.0-windows\Three_Layer _Model.exe
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\bin\Debug\net5.0-windows\Three_Layer _Model.deps.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\bin\Debug\net5.0-windows\Three_Layer _Model.runtimeconfig.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\bin\Debug\net5.0-windows\Three_Layer _Model.runtimeconfig.dev.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\bin\Debug\net5.0-windows\Three_Layer _Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\bin\Debug\net5.0-windows\Three_Layer _Model.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer__Model.Login.resources
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.csproj.GenerateResource.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.AssemblyInfo.cs
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\refint\Three_Layer _Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer _Model.genruntimeconfig.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\ref\Three_Layer _Model.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\Three_Layer _Model\Three_Layer _Model\obj\Debug\net5.0-windows\Three_Layer__Model.Presentation_Layer.Home.resources

@@ -1,0 +1,20 @@
+﻿using AutomobileLibrary.BussinessObject;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AutomobileLibrary.Repository
+{
+    public interface ICarRepository
+    {
+        // Initialize interface for implemetation.
+        IEnumerable<Car> GetCars();
+        Car GetCarByID(int carID);
+        void InsertCar(Car car);
+        void DeleteCar(int carID);
+        void UpdateCar(Car car);
+
+    }
+}

@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\bin\Debug\net5.0\Lesson_2_Variable.exe
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\bin\Debug\net5.0\Lesson_2_Variable.deps.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\bin\Debug\net5.0\Lesson_2_Variable.runtimeconfig.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\bin\Debug\net5.0\Lesson_2_Variable.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\bin\Debug\net5.0\Lesson_2_Variable.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\bin\Debug\net5.0\Lesson_2_Variable.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\refint\Lesson_2_Variable.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\Lesson_2_Variable.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_2_Variable\obj\Debug\net5.0\ref\Lesson_2_Variable.dll

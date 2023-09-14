@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lesson_1_HelloWord.exe
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lesson_1_HelloWord.deps.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lesson_1_HelloWord.runtimeconfig.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lesson_1_HelloWord.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lesson_1_HelloWord.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lesson_1_HelloWord.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\refint\Lesson_1_HelloWord.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lesson_1_HelloWord.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\ref\Lesson_1_HelloWord.dll

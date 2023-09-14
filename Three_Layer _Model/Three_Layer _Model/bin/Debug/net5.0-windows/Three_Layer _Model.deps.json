@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Three_Layer _Model/1.0.0": {
+        "runtime": {
+          "Three_Layer _Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Three_Layer _Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

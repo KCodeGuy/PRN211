@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\bin\Debug\net5.0\Lesson_4_MathClass.exe
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\bin\Debug\net5.0\Lesson_4_MathClass.deps.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\bin\Debug\net5.0\Lesson_4_MathClass.runtimeconfig.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\bin\Debug\net5.0\Lesson_4_MathClass.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\bin\Debug\net5.0\Lesson_4_MathClass.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\bin\Debug\net5.0\Lesson_4_MathClass.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\refint\Lesson_4_MathClass.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\Lesson_4_MathClass.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_4_MathClass\obj\Debug\net5.0\ref\Lesson_4_MathClass.dll

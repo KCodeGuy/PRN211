@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.exe
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.deps.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.runtimeconfig.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.runtimeconfig.dev.json
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfo.cs
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\refint\DemoDatabaseFirst.dll
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.pdb
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.genruntimeconfig.cache
+C:\Users\PC\Documents\University\Semester_5_Spring_2023\PRN211\DemoDatabaseFirst\obj\Debug\net5.0\ref\DemoDatabaseFirst.dll

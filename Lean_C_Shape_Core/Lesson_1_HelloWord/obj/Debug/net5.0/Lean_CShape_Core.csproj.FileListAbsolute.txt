@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lean_CShape_Core.exe
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lean_CShape_Core.deps.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lean_CShape_Core.runtimeconfig.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lean_CShape_Core.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lean_CShape_Core.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\bin\Debug\net5.0\Lean_CShape_Core.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\refint\Lean_CShape_Core.dll
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.pdb
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\Lean_CShape_Core.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lesson_1_HelloWord\Lesson_1_HelloWord\obj\Debug\net5.0\ref\Lean_CShape_Core.dll
